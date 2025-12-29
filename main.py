@@ -99,7 +99,7 @@ def run_quiz():
                     print('Верно')
                 else:
                     lives -= 1
-                    print("Неверно!")
+                    print("Неверно!1")
                     print("Правильный ответ:", right_answer)
                 print()
             except Exception as e:
